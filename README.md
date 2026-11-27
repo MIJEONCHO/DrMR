@@ -13,4 +13,16 @@ Dr.MR is an offline Windows x64 tool for inspecting Python programs against a JS
 
 To try the intentional failure, use the Capsule Scanner sample and replace its target with `invoice_bug.py` while keeping `capture.json`. These example files are under `_internal/examples`.
 
-Run only programs you trust. Separate processes do not provide an OS sandbox. A verdict applies to the recorded scope. See the [evaluation terms](_internal/engine/LICENSE_EVALUATION_KO.md) and [third-party notices](NOTICES/).
+## Support
+
+> Donations are entirely voluntary.
+> There is no difference in features or usage rights whether or not you donate.
+> Thank you for supporting Dr.MR's development.
+
+[Donate through AI World Portal on Ko-fi](https://ko-fi.com/aiportal). AI World Portal is the shared funding platform. Dr.MR is developed and branded by AI Companion Lab.
+
+## License and notices
+
+Run only programs you trust. Separate processes do not provide an OS sandbox. A verdict applies to the recorded scope. Free to run for individuals and businesses; not open source. See `LICENSE.md` and the third-party notices in `NOTICES/`, both included in the [latest release](https://github.com/MIJEONCHO/DrMR/releases/tag/v1.0.0-beta) ZIP.
+
+Developed by AI Companion Lab. Copyright (c) 2026 Mijeon Cho.
