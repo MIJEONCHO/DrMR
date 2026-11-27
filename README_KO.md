@@ -27,4 +27,14 @@ v1에는 Kimi GUI·Multi-Point, 기존 Doctor X 0.1.0-beta3 엔진과 A/B/C 보�
 
 ## 라이선스와 제3자 고지
 
-자체 코드의 공개 라이선스는 확정하지 않았습니다. 기존 평가 조건과 보안 문서, 제3자 고지는 `_internal/engine`에 있습니다. 번들 런타임의 PSF 고지와 PyInstaller·Tcl/Tk 고지는 `NOTICES` 및 `_internal/runtime`을 확인하세요. 이 파일은 로컬 평가 배포 후보이며 외부 공개 판단은 별도입니다.
+자체 코드는 공개 소스가 아니며 무료로 실행할 수 있습니다. 소스 수정·무단 재배포·판매는 허가하지 않습니다. 정확한 조건은 [최신 릴리스](https://github.com/MIJEONCHO/DrMR/releases/tag/v1.0.0-beta) ZIP에 포함된 `LICENSE_KO.md`를 확인하세요. 번들 런타임의 PSF 고지와 PyInstaller·Tcl/Tk 고지, 제3자 `toml`의 MIT 고지는 같은 ZIP의 `NOTICES`와 `_internal/engine/THIRD_PARTY_NOTICES`에 있습니다.
+
+## 후원
+
+> 후원은 완전히 자율입니다.
+> 후원 여부에 따라 기능이나 이용 권한의 차이는 없습니다.
+> Dr.MR 개발을 응원해 주셔서 감사합니다.
+
+[AI World Portal Ko-fi 자율 후원](https://ko-fi.com/aiportal). AI World Portal은 공통 후원 창구이며, Dr.MR의 개발·제품 브랜드는 AI Companion Lab입니다.
+
+개발: AI Companion Lab. 저작권 (c) 2026 Mijeon Cho.
